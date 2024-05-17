@@ -1,0 +1,1 @@
+A quick example of deploying a website built through [Parcel](https://parceljs.org/) to GitHub Pages.

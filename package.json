@@ -1,0 +1,19 @@
+{
+  "name": "drew-usyd.github.io",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "predeploy": "parcel build",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": "https://github.com/drew-usyd/drew-usyd.github.io.git",
+  "author": "Drew Cosgrove <drew.cosgrove@sydney.edu.au>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
